@@ -18,8 +18,6 @@ Developing scalable, user-focused web applications with real-time features. My r
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhishek3256&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhishek3256&icon=0&color=0)](https://visitcount.itsvg.in)
